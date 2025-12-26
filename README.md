@@ -20,7 +20,7 @@
 * Full Stack Developer |DataBase Knowledge | Network Knowledge *  
 Passionate about programming, database development and networks.
 
-👨‍💻 As an Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+👨‍💻 As a Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 
 
 💬 Ask me about my experience with Java, Python and C#.
